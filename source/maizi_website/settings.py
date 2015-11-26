@@ -88,8 +88,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'maizidb',
         'USER': 'root',
-        'PASSWORD': '1234',
-        'HOST': 'localhost',
+        'PASSWORD': 'hello',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
     }
 }
