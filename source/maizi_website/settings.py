@@ -91,6 +91,7 @@ DATABASES = {
         'PASSWORD': 'hello',
         'HOST': '127.0.0.1',
         'PORT': '3306',
+
     }
 }
 
@@ -124,3 +125,5 @@ TEMPLATE_DIRS = (
 
 # define
 AUTH_USER_MODEL = "common.UserProfile"
+
+HELLO_WORLD
