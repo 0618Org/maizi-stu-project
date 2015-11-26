@@ -125,5 +125,3 @@ TEMPLATE_DIRS = (
 
 # define
 AUTH_USER_MODEL = "common.UserProfile"
-
-HELLO_WORLD
